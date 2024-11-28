@@ -1,0 +1,16 @@
+{
+    "tipo-cliente": [
+        {
+            "id": 1,
+            "nombre": "Recurrente"
+          },
+          {
+            "id": 2,
+            "nombre": "Frecuente"
+          },
+          {
+            "id": 3,
+            "nombre": "Comercial"
+          }
+    ]
+}
